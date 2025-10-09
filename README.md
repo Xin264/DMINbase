@@ -1,0 +1,2 @@
+# DMINbase
+base good result
